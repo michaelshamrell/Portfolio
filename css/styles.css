@@ -17,3 +17,11 @@ img {
 strong {
   font-weight: bold;
 }
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  float: center;
+}
