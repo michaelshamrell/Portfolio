@@ -6,6 +6,7 @@ h1 {
 h2 {
   font-size: 250%;
   color: aliceblue;
+  text-decoration: underline;
 }
 
 h3 {
